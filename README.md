@@ -1,7 +1,7 @@
 RL-GAN-Stonk-Prediction
 ==============================
 
-A short description of the project.
+An experiment to see if Transformer Generative Adversarial Networks can forecast a range of movement for a stock like in Monte Carlo Simulation.
 
 Project Organization
 ------------
